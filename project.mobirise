@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "4.3.4"
   },
   "pages": {
@@ -58,7 +58,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">Pricing</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">BO2</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-4\">GTAV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -208,6 +208,82 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-4"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Grand Theft Auto V<br>",
+          "subtitle": "",
+          "title1": "Rank Recovery",
+          "title2": "Money Recovery",
+          "title3": "Garage Recovery",
+          "title4": "AIO",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
+          "subtitle4": "",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "4",
+          "price2": "4",
+          "price3": "4",
+          "price4": "7",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "",
+          "description1": "",
+          "description2": "",
+          "description3": "",
+          "description4": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Custom Rank</li><li class=\"list-group-item\">All Achivements</li><li class=\"list-group-item\">All Unlockables</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Custom Money</li><li class=\"list-group-item\">Unlimited Snacks</li><li class=\"list-group-item\">Unlimited Ammo</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Pick a garage of your Choice</li><li class=\"list-group-item\">Pick the cars of your Choice</li><li class=\"list-group-item\">All Vehicle's Maxed Out</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">All Recoveries</li><li class=\"list-group-item\">All Achievements</li><li class=\"list-group-item\">Any House With Any Cars</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://twitter.com/ModdingXbox\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Order</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://twitter.com/ModdingXbox\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Order</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://twitter.com/ModdingXbox\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Order</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://twitter.com/ModdingXbox\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Order</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-a"
         },
         {
           "_params": {
