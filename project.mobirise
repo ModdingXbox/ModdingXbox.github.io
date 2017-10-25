@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 53,
+    "uniqCompNum": 55,
     "versionPublish": "4.3.4"
   },
   "pages": {
@@ -319,6 +319,33 @@
           "_anchor": "features7-v"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>          ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1i"
+        },
+        {
           "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -529,6 +556,29 @@
           ],
           "_name": "header3",
           "_anchor": "header3-z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#282828"
+          },
+          "title": "COD BO2",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1h"
         },
         {
           "_styles": {
@@ -1203,7 +1253,7 @@
           "price1": "4",
           "price2": "4",
           "price3": "4",
-          "price4": "7",
+          "price4": "10",
           "period1": "",
           "period2": "",
           "period3": "",
